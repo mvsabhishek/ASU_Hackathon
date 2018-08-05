@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>service-catalog</category>
+        <content><![CDATA[ <h1 class="title topictitle1">Service catalog record producers</h1>  <div class="body conbody">  <p class="p"><span class="ph">A record producer is a specific type of catalog item that allows          end users to create task-based records, such as incident records, from the service          catalog.</span></p>  <p class="p">Use record producers to provide a better end-user experience instead of        using the regular task-based form for creating records. The look and feel of a record        producer is similar to that of a catalog item. But the record producer generates a task        record such as incident, instead of a requested item. </p>  <div class="note note"><span class="notetitle">Note:</span>         <ul class="ul" id="sc_cat_item_producer_list-normal__d25211e96"><li class="li">Use a record producer to create task-based records only.</li><li class="li">To ensure that standard service catalog processes are followed, such as initiating            workflows as expected, do not create requested item records from record producers.            Instead, create requested item using catalog items.</li></ul>      </div> </div> <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Record_Producer&amp;version&#61;jakarta" target="_blank" rel="nofollow">Record producer</a></div></div></div></div>]]></content>
+        <last_sync>2018-07-30 10:58:14</last_sync>
+        <modifier>normal</modifier>
+        <name>sc_cat_item_producer_list-normal</name>
+        <page>sc_cat_item_producer_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-07-30 10:58:14</sys_created_on>
+        <sys_id>94cdffeadbe71300da435740cf9619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sc_cat_item_producer_list-normal</sys_name>
+        <sys_package display_value="insync" source="x_212197_insync">525436eadb271300da435740cf961950</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="insync">525436eadb271300da435740cf961950</sys_scope>
+        <sys_update_name>sys_embedded_help_content_94cdffeadbe71300da435740cf9619fb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-07-30 10:58:14</sys_updated_on>
+        <version>j</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=94cdffeadbe71300da435740cf9619fb"/>
+</record_update>

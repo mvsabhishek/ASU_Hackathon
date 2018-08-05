@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Ideate">f50effeadbe71300da435740cf9619ae</sc_cat_item>
+        <sc_category display_value="Information">d2f73e24c611227a002f7cfedd0aa9e5</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-31 15:52:45</sys_created_on>
+        <sys_id>90ca0a4fdba31300da435740cf9619b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Information.Ideate</sys_name>
+        <sys_package display_value="insync" source="x_212197_insync">525436eadb271300da435740cf961950</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="insync">525436eadb271300da435740cf961950</sys_scope>
+        <sys_update_name>sc_cat_item_category_90ca0a4fdba31300da435740cf9619b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-31 15:52:45</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="NEW ITEM TEST">bc458080db331300da435740cf9619ca</sc_cat_item>
+        <sc_category display_value="OKay">0e9a0100dbb31300da435740cf96196e</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-03 13:46:31</sys_created_on>
+        <sys_id>68aa0500dbb31300da435740cf961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OKay.NEW ITEM TEST</sys_name>
+        <sys_package display_value="insync" source="x_212197_insync">525436eadb271300da435740cf961950</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="insync">525436eadb271300da435740cf961950</sys_scope>
+        <sys_update_name>sc_cat_item_category_68aa0500dbb31300da435740cf961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-03 13:46:31</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

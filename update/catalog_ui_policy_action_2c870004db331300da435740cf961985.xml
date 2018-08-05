@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="NEW ITEM TEST">bc458080db331300da435740cf9619ca</catalog_item>
+        <catalog_variable>IO:eec684c0db331300da435740cf961953</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-03 08:53:24</sys_created_on>
+        <sys_id>2c870004db331300da435740cf961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hello</sys_name>
+        <sys_package display_value="insync" source="x_212197_insync">525436eadb271300da435740cf961950</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="insync">525436eadb271300da435740cf961950</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_2c870004db331300da435740cf961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-03 08:53:24</sys_updated_on>
+        <table/>
+        <ui_policy display_value="SHOW test_var">a6d58880db331300da435740cf9619a9</ui_policy>
+        <variable>Hello</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

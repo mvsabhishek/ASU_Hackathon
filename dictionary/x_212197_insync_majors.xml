@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Majors" max_length="40" name="x_212197_insync_majors" type="collection">
+        <element label="School" mandatory="true" max_length="32" name="department" reference="x_212197_insync_department" type="reference"/>
+        <element display="true" label="Major" mandatory="true" max_length="200" name="u_major" type="string"/>
+        <index name="index">
+            <element name="department"/>
+        </index>
+    </element>
+</database>

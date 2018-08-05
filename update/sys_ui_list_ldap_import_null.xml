@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="ldap_import" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2056b0c7db231300da435740cf9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2856b0c7db231300da435740cf9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a856b0c7db231300da435740cf9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_userprincipalname</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2c56b0c7db231300da435740cf9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_memberof</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>ac56b0c7db231300da435740cf9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_lastlogon</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2056b0c7db231300da435740cf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_usncreated</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a056b0c7db231300da435740cf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_usnchanged</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2456b0c7db231300da435740cf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_objectguid</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a456b0c7db231300da435740cf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_badpasswordtime</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2856b0c7db231300da435740cf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_countrycode</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a856b0c7db231300da435740cf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_instancetype</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2c56b0c7db231300da435740cf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_whenchanged</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>ac56b0c7db231300da435740cf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_whencreated</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2056b0c7db231300da435740cf9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_objectsid</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a056b0c7db231300da435740cf9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_badpwdcount</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2456b0c7db231300da435740cf9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_lastlogoff</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a456b0c7db231300da435740cf9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_displayname</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2856b0c7db231300da435740cf9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_givenname</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a856b0c7db231300da435740cf9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_objectcategory</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2c56b0c7db231300da435740cf9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_accountexpires</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>ac56b0c7db231300da435740cf9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cn</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2056b0c7db231300da435740cf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_useraccountcontrol</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a056b0c7db231300da435740cf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_objectclass</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2456b0c7db231300da435740cf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_pwdlastset</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a456b0c7db231300da435740cf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_primarygroupid</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2856b0c7db231300da435740cf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_source</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a856b0c7db231300da435740cf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_dscorepropagationdata</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2c56b0c7db231300da435740cf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_dn</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>ac56b0c7db231300da435740cf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_samaccountname</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2056b0c7db231300da435740cf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_sn</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>30</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a056b0c7db231300da435740cf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_codepage</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>31</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2456b0c7db231300da435740cf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_distinguishedname</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>32</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a456b0c7db231300da435740cf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_logoncount</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>33</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2856b0c7db231300da435740cf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_name</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>34</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a856b0c7db231300da435740cf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_samaccounttype</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>35</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2c56b0c7db231300da435740cf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>36</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>ac56b0c7db231300da435740cf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>37</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>2056b0c7db231300da435740cf9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="ldap_import" element="NULL" name="ldap_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6456b0c7db231300da435740cf9619b9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>38</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_id>a056b0c7db231300da435740cf9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>ldap_import</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-31 09:43:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6456b0c7db231300da435740cf9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ldap_import</sys_name>
+            <sys_package display_value="insync" source="x_212197_insync">525436eadb271300da435740cf961950</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="insync">525436eadb271300da435740cf961950</sys_scope>
+            <sys_update_name>sys_ui_list_ldap_import_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-31 09:43:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

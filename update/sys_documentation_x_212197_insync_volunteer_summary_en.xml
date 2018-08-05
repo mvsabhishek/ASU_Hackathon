@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="summary" label="Summary" language="en" table="x_212197_insync_volunteer">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>summary</element>
+            <help/>
+            <hint/>
+            <label>Summary</label>
+            <language>en</language>
+            <name>x_212197_insync_volunteer</name>
+            <plural>Summaries</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 06:00:33</sys_created_on>
+            <sys_id>3b997e22db671300da435740cf96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Summary</sys_name>
+            <sys_package display_value="insync" source="x_212197_insync">525436eadb271300da435740cf961950</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="insync">525436eadb271300da435740cf961950</sys_scope>
+            <sys_update_name>sys_documentation_x_212197_insync_volunteer_summary_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 06:00:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

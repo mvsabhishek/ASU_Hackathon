@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ldap_ou_config">
+    <ldap_ou_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <default_values/>
+        <filter>(&amp;(objectClass=person)(sn=*)(!(objectClass=computer))(!(userAccountControl:1.2.840.113556.1.4.803:=2)))</filter>
+        <map/>
+        <map_group_manager>false</map_group_manager>
+        <map_group_members>false</map_group_members>
+        <map_user_manager>false</map_user_manager>
+        <map_user_status>false</map_user_status>
+        <name>Users</name>
+        <ou>CN=Users</ou>
+        <query_field>sAMAccountName</query_field>
+        <server display_value="LDAP Server">439f2c83db231300da435740cf9619c3</server>
+        <sys_class_name>ldap_ou_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-31 09:14:32</sys_created_on>
+        <sys_id>879f2c83db231300da435740cf9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Users</sys_name>
+        <sys_package display_value="insync" source="x_212197_insync">525436eadb271300da435740cf961950</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="insync">525436eadb271300da435740cf961950</sys_scope>
+        <sys_update_name>ldap_ou_config_879f2c83db231300da435740cf9619c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-31 09:14:32</sys_updated_on>
+        <table>sys_user</table>
+    </ldap_ou_config>
+</record_update>

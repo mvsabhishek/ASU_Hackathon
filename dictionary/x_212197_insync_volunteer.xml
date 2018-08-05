@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Volunteer" max_length="40" name="x_212197_insync_volunteer" type="collection">
+        <element label="Skills" mandatory="true" max_length="4000" name="skills" reference="x_212197_insync_skills" type="glide_list"/>
+        <element label="Summary" max_length="1000" name="summary" type="string"/>
+        <element label="Working/worked on Ideas" max_length="4000" name="u_ideas_worked_with" reference="x_212197_insync_ideas" type="glide_list"/>
+        <element label="Volunteer's Name" mandatory="true" max_length="32" name="volunteer_s_name" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="volunteer_s_name"/>
+        </index>
+    </element>
+</database>

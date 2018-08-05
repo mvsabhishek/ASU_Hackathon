@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_ideas_worked_with" label="Working/worked on Ideas" language="en" table="x_212197_insync_volunteer">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_ideas_worked_with</element>
+            <help/>
+            <hint/>
+            <label>Working/worked on Ideas</label>
+            <language>en</language>
+            <name>x_212197_insync_volunteer</name>
+            <plural>Working/worked on Ideas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 06:02:44</sys_created_on>
+            <sys_id>bb1ab262db671300da435740cf961943</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Working/worked on Ideas</sys_name>
+            <sys_package display_value="insync" source="x_212197_insync">525436eadb271300da435740cf961950</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="insync">525436eadb271300da435740cf961950</sys_scope>
+            <sys_update_name>sys_documentation_x_212197_insync_volunteer_u_ideas_worked_with_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 06:58:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

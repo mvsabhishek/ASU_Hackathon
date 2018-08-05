@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>rpt-tempd2103a75c0a8000a0079ae0b549d17b36816f79cc0a8016401c5a33be04be441</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-30 09:36:16</sys_created_on>
+        <sys_id>73faa3a2dbe71300da435740cf96192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="insync">525436eadb271300da435740cf961950</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-30 09:36:16</sys_updated_on>
+        <title>Rpt-tempd2103a75c0a8000a0079ae0b549d17b36816f79cc0a8016401c5a33be04be441</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

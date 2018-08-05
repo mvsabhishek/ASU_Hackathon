@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Ideas" max_length="40" name="x_212197_insync_ideas" type="collection">
+        <element label="Co-authors" max_length="4000" name="co_authors" reference="sys_user" type="glide_list"/>
+        <element label="Long Description" mandatory="true" max_length="1000" name="u_long_description" type="string"/>
+        <element display="true" label="Name" mandatory="true" max_length="200" name="u_name" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Related Majors" mandatory="true" max_length="1024" name="u_related_majors" reference="x_212197_insync_majors" type="glide_list"/>
+        <element label="Short Description" mandatory="true" max_length="300" name="u_short_description" type="string"/>
+        <element label="Skills Required" mandatory="true" max_length="4000" name="u_skills_required" reference="x_212197_insync_skills" type="glide_list"/>
+    </element>
+</database>

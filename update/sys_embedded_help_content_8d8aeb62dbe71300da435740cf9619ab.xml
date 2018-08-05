@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>service-level-management</category>
+        <content><![CDATA[ <h1 class="title topictitle1">SLA definitions</h1>  <div class="body conbody">  <p class="p">SLA definitions are used to define a specific set of criteria for an SLA. You must define some   of the following parameters:</p>  <ul class="ul" id="contract_sla_list-normal__ul_qmt_nkx_bz"><li class="li"><span class="ph uicontrol">Type</span>: Associate a specific service level target with the SLA/OLA/Underpinning contract    to sort or search for service level agreements by type.<div class="note note"><span class="notetitle">Note:</span> Type is used for reporting purposes     only.</div>   </li><li class="li"><span class="ph uicontrol">Table</span>: Specify the task table against which you define the SLA.</li><li class="li"><span class="ph uicontrol">Workflow</span>: Select the workflow to be associated with the SLA to control    notification and escalation procedures. </li><li class="li"><span class="ph uicontrol">Duration type</span>: Specify the method for calculating the duration which    can be a user specific duration or a duration relative to a point in time or due date from a    related task. </li><li class="li"><span class="ph uicontrol">Duration</span>: Specify the time duration by which you must provide the    specific service to the customer. </li><li class="li"><span class="ph uicontrol">Schedule source</span>: Specify the schedule source that defines the valid    working and non-working days that the service provider follows to deliver the service. The    selected schedule is used to determine SLA breach. </li><li class="li"><span class="ph uicontrol">Schedule</span>: Specify the business calendar that controls SLA business    time duration accumulation.</li><li class="li"><span class="ph uicontrol">Timezone source/Timezone</span>: Specify the source and the timezone an SLA    uses that impacts the in-and-out of schedule duration accumulation. </li><li class="li"><span class="ph uicontrol">Conditions</span>: Specify the conditions under which the SLA must start,    pause, stop, or reset.</li></ul> </div> <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Service-Level-Management&amp;version&#61;jakarta" target="_blank" rel="nofollow">Service Level Management</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:SLA-process-example&amp;version&#61;jakarta%20" target="_blank" rel="nofollow">SLA process example</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:configure-slas&amp;version&#61;jakarta%20" target="_blank" rel="nofollow">Configure SLAs</a></div><div><a class="link" href="https://community.servicenow.com/docs/DOC-5853" target="_blank" rel="nofollow">SLA FAQs</a></div></div></div></div>]]></content>
+        <last_sync>2018-07-30 09:34:10</last_sync>
+        <modifier>normal</modifier>
+        <name>contract_sla_list-normal</name>
+        <page>contract_sla_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-07-30 09:34:10</sys_created_on>
+        <sys_id>8d8aeb62dbe71300da435740cf9619ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contract_sla_list-normal</sys_name>
+        <sys_package display_value="insync" source="x_212197_insync">525436eadb271300da435740cf961950</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="insync">525436eadb271300da435740cf961950</sys_scope>
+        <sys_update_name>sys_embedded_help_content_8d8aeb62dbe71300da435740cf9619ab</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-07-30 09:34:10</sys_updated_on>
+        <version>j</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=8d8aeb62dbe71300da435740cf9619ab"/>
+</record_update>

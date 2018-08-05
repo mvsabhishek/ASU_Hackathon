@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-30 06:12:46</sys_created_on>
+        <sys_id>fe6cfaa2db671300da435740cf961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_212197_insync_majors.x_212197_insync.majors_user</sys_name>
+        <sys_package display_value="insync" source="x_212197_insync">525436eadb271300da435740cf961950</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="insync">525436eadb271300da435740cf961950</sys_scope>
+        <sys_security_acl display_value="x_212197_insync_majors">f66cfaa2db671300da435740cf96193f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fe6cfaa2db671300da435740cf961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-30 06:12:46</sys_updated_on>
+        <sys_user_role display_value="x_212197_insync.majors_user" name="x_212197_insync.majors_user">ba6cb6a2db671300da435740cf961916</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

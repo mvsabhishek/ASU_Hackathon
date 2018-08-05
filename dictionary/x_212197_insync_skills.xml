@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Skills" max_length="40" name="x_212197_insync_skills" type="collection">
+        <element display="true" label="Skill" mandatory="true" max_length="200" name="skill" type="string"/>
+    </element>
+</database>
